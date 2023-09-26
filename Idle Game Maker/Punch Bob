@@ -1,0 +1,16 @@
+Let's make a game!
+	name:Punch Bob
+
+Resources
+	teeth
+		name:Teeth
+		desc:Bob's teeth.
+
+Upgrades
+	mitten
+		name:Mitten
+		desc:Not very good weapon.
+	
+	boxing glove
+		name:Boxing glove
+		desc:Basic punch.
